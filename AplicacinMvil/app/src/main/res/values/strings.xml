@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Aplicación Móvil</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="BotonSiguiente">Siguiente</string>
+    <string name="tv1">Primer Activity</string>
+    <string name="BotonAnterior">Anterior</string>
+    <string name="tv2">Segundo  Activity</string>
+    <string name="BotonMensaje">Mensaje</string>
+    <string name="txt_nombre">Nombre del contacto</string>
+    <string name="botonGuardar">Guardar</string>
+    <string name="botonBuscar">Buscar</string>
+    <string name="botonLlamar">Llamar</string>
+    <string name="botonUrl">Url</string>
+    <string name="txt_url">Url</string>
+    <string name="txt_web">Ingresa el sitio web</string>
+    <string name="BotonIR">Ir al sitio</string>
+    <string name="BotonCerrar">Cerrar</string>
+    <string name="txt_num">Ingrese un número</string>
+</resources>
